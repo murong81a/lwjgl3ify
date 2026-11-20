@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8.3",
+  "package": "me.eigenraven.lwjgl3ify.mixins.early",
+  "refmap": "mixins.lwjgl3ify.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "fml.ASMEventHandler",
+    "fml.EnumHelper",
+    "fml.ItemStackHolderRef",
+    "fml.JarDiscoverer",
+    "fml.ObjectHolderRef",
+    "fml.ObjectHolderRegistry"
+  ],
+  "client": [
+    "game.MixinMinecraftKeyBinding"
+  ]
+}

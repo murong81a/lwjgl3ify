@@ -1,0 +1,10 @@
+{
+  "package": "me.eigenraven.lwjgl3ify.mixins",
+  "refmap": "mixins.lwjgl3ify.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": [],
+  "server": []
+}

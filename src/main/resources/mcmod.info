@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "lwjgl3ify",
+		"name": "Lwjgl3ify",
+		"description": "A mod enabling the use of LWJGL3 and modern Java versions for Minecraft 1.10.2",
+		"version": "1.10.2-port-0.0.1",
+		"mcversion": "1.10.2",
+		"url": "https://github.com/murong81a/lwjgl3ify",
+		"updateUrl": "",
+		"authorList": ["eigenraven", "TwilightFlower"],
+		"credits": "1.10.2 port",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": true
+	}]
+}

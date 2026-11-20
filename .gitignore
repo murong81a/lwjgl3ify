@@ -1,0 +1,23 @@
+# Build output
+build/
+
+# Local library caches. These are downloaded dependencies, not part of the source.
+libs/
+libs-runtime/
+
+# Launch and test scratch space
+run/
+_probe/
+
+# Local installer payload
+installer/
+
+# IDE and tooling
+.idea/
+.vscode/
+*.iml
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
